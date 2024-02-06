@@ -4,7 +4,7 @@
 #declaring the for loop
 #for fruit in fruits:
 ##  print(fruit)
-  #print(fruit +" false")
+#print(fruit +" false")
 #print(fruits)
 student_heights= input("Input a list of student heights ").split()
 
