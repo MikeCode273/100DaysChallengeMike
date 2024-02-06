@@ -26,7 +26,7 @@ for i in range(0,nr_numbers):
 random.shuffle(password_lst)
 #print(password_lst)
 
-password=''
+password=""
 for i in password_lst:
   password+=i
 print(f"Your Password is {password}")
