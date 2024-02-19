@@ -1,36 +1,36 @@
 # # #how to use dictionaries and nested dictionares
 
-# programming_dictionary ={"Bug":"this is that is ","function":"refers to...."}
+programming_dictionary ={"Bug":"this is that is ","function":"refers to...."}
 
 # # #Retrieving items from dictionary 
 # print(programming_dictionary["Bug"])
 
 # # #adding new items to dictionaries
-# programming_dictionary["loop"]="The action of doing...."
-# # print(programming_dictionary)
+programming_dictionary["loop"]="The action of doing...."
+print(programming_dictionary)
 
 # #create an empty dictionary
-# # empty_dictionary = {} 
+empty_dictionary = {} 
 
-# # empty_dictionary["loop"]="wdmedm"
+empty_dictionary["loop"]="wdmedm"
 
-# # print(empty_dictionary)
+print(empty_dictionary)
 
 # #Edit an item in adictionary
-# programming_dictionary["Bug"]= "edit this cieockcmo"
+programming_dictionary["Bug"]= "edit this cieockcmo"
 
 # # print(programming_dictionary)
 
 # #loops in dictionary
-# for key in programming_dictionary:
-#   print(key)
-#   print(programming_dictionary[key]) 
+for key in programming_dictionary:
+  print(key)
+  print(programming_dictionary[key]) 
 
 #   #Nested dictionary
-# capitals = {
-#   "France":"Paris",
-#   "Germany":"Berlin"
-# }
+capitals = {
+  "France":"Paris",
+  "Germany":"Berlin"
+}
 
 
 
